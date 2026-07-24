@@ -1,0 +1,12 @@
+node_modules/
+_temp_*
+*.log
+.DS_Store
+Thumbs.db
+fix*.py
+check*.py
+old_msg.txt
+new_msg.txt
+search_timer.py
+.playwright-cli/
+AGENTS.md
