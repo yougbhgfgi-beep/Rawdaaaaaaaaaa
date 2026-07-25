@@ -275,7 +275,7 @@
     // Title
     var titleDiv = document.createElement('div');
     titleDiv.className = 'relative z-10 text-center mb-12';
-    titleDiv.innerHTML = '<span class="text-[10px] text-rose-400 uppercase tracking-[0.3em] block mb-3 font-light">\u0639\u064A\u062F \u0645\u064A\u0644\u0627\u062F</span><h2 class="text-2xl md:text-3xl font-serif font-bold tracking-wide text-rose-200">\u0643\u0644 \u0633\u0646\u0629 \u0648\u0627\u0646\u062A\u064D \u0637\u064A\u0628\u0629 \u064A\u0627 \u062D\u0628\u064A\u0628\u062A\u064A <span class="text-rose-400">\uD83C\uDF82</span></h2>';
+    titleDiv.innerHTML = '<span class="text-[10px] text-rose-400 uppercase tracking-[0.3em] block mb-3 font-light">\u0639\u064A\u062F \u0645\u064A\u0644\u0627\u062F</span><h2 class="text-2xl md:text-3xl font-serif font-bold tracking-wide text-rose-200">\u0643\u0644 \u0633\u0646\u0629 \u0648\u0627\u0646\u062A\u064A \u0637\u064A\u0628\u0629 \u064A\u0627 \u062D\u0628\u064A\u0628\u062A\u064A <span class="text-rose-400">\uD83C\uDF82</span></h2>';
     section.appendChild(titleDiv);
 
     // Cake container
@@ -316,7 +316,7 @@
     // Message
     var msg = document.createElement('div');
     msg.className = 'ck-message text-center mx-auto';
-    msg.innerHTML = '\u0643\u0644 \u0633\u0646\u0629 \u0648\u0627\u0646\u062A \u0623\u063A\u0644\u0649 \u0625\u0646\u0633\u0627\u0646\u0629 \u0641\u064A \u062D\u064A\u0627\u062A\u064A \uD83E\uDD0D<br><strong>\u0628\u062D\u0628\u0643</strong>';
+    msg.innerHTML = '\u0643\u0644 \u0633\u0646\u0629 \u0648\u0627\u0646\u062A\u064A \u0623\u063A\u0644\u0649 \u0625\u0646\u0633\u0627\u0646\u0629 \u0641\u064A \u062D\u064A\u0627\u062A\u064A \uD83E\uDD0D<br><strong>\u0628\u062D\u0628\u0643</strong>';
     section.appendChild(msg);
 
     // Insert after gallery
